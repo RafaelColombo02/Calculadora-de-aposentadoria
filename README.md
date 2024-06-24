@@ -40,4 +40,5 @@ java CalculadoraAposentadoria
 O programa será executado e você verá janelas de diálogo (JOptionPane) solicitando que você insira a idade, sexo (M para masculino, F para feminino) e anos de contribuição da pessoa. Insira os valores conforme solicitado e o programa calculará os anos que faltam para a pessoa se aposentar ou se ela já pode se aposentar, de acordo com as regras especificadas no código.
 
 7. Visualizar o resultado
+
 Após inserir os valores, o programa exibirá uma janela de diálogo (JOptionPane) com a mensagem indicando se a pessoa pode se aposentar ou quantos anos faltam para isso.
